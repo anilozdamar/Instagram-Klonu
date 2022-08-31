@@ -1,5 +1,9 @@
 # Instagram-Klonu
 
-Bu projemde Instagram web sayfasını klonladım.
+Bu projemde Instagram websitesini klonladım.
 
+
+https://app.patika.dev/anilozdamar
+
+https://www.patika.dev
 
